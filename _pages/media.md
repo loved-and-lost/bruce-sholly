@@ -1,5 +1,5 @@
 ---
-title: Media
+title: 
 description: 
 subtitle: 
 featured_image: 
@@ -7,4 +7,4 @@ featured_image:
 
 ## Memorial Service Slideshow
 
-<iframe src="https://www.youtube.com/watch?v=HyR1geM7-lQ" width="640" height="288" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HyR1geM7-lQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
